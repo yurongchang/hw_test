@@ -1,10 +1,11 @@
 body{
-  background: #ecf4c5;
-  margin: 0px;
+
 }
 
 .container{
+  background: #ecf4c5;
   width: 1260px;
+  height: 940px;
   margin: auto;
 }
 
@@ -13,7 +14,7 @@ body{
   height:43px;
   margin-left: 160px;
   margin-right: 160px;
-  margin-top: 50px;
+  padding-top: 50px;
   margin-bottom: 10px;
 }
 
